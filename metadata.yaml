@@ -1,5 +1,5 @@
 homepage: "https://www.safeopt.com/"
 documentation: "https://github.com/addshoppers/google-tag-manager-global-site-tag"
 versions:
-  - sha:
+  - sha: 03046566d419fad0b091113568549716fc9b83e0
     changeNotes: Initial release.
